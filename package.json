@@ -9,7 +9,7 @@
     "dist"
   ],
   "dependencies": {
-    "@reactivex/rxjs": "^5.0.0-beta.11"
+    "@reactivex/rxjs": "^5.0.0-beta.12"
   },
   "devDependencies": {
     "browserify": "^13.0.1",
@@ -39,6 +39,11 @@
     "mkdirp": "^0.5.1",
     "node-html-encoder": "0.0.2",
     "q": "1.4.1",
+    "rollup": "^0.35.10",
+    "rollup-plugin-babel": "^2.6.1",
+    "rollup-plugin-commonjs": "^4.1.0",
+    "rollup-plugin-node-resolve": "^2.0.0",
+    "rxjs-es": "^5.0.0-beta.12",
     "semver": "^5.0.1",
     "tsify": "~1.0.4",
     "tslint": "^3.8.1",

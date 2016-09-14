@@ -1,15 +1,15 @@
 {
   "compilerOptions": {
     "module": "es2015",
-    "target": "ES5",
+    "target": "es6",
     "sourceMap": true,
     "declaration": true,
     "experimentalDecorators": true,
+    "noEmitHelpers": true,
     "outDir": "dist/esm",
     "moduleResolution": "node"
   },
   "files": [
-    "typings/es6-shim/es6-shim.d.ts",
     "src/index.ts"
   ]
 }
