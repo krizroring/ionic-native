@@ -1,6 +1,6 @@
 {
   "name": "ionic-native",
-  "version": "1.3.21",
+  "version": "1.3.22",
   "description": "Native plugin wrappers for Cordova and Ionic with TypeScript, ES6+, Promise and Observable support",
   "main": "dist/index.js",
   "files": [
@@ -59,7 +59,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "https://github.com/driftyco/ionic-native.git"
+    "url": "https://github.com/krizroring/ionic-native.git"
   },
   "license": "MIT",
   "bugs": {
